@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HOSpNYvpLdXsIeLaOqwwsjGRB5nM8RW17nvNbn8RF9NOUDP6sbWWQ2+fKwBJ4Q1qbXarlTg4JZELuXCnslYyYw==",
+  "dgSpecHash": "4bx6Ekm/RdxkXKNNpCBuiQu8EWsVfh/seNI5WEr+/ipHBZPR0SeAi68uyB+OdMb9TQC+zZvX0+M4j9oRh9+hbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Иван\\source\\repos\\kis\\kis\\kis.csproj",
+  "projectFilePath": "C:\\Users\\Иван\\source\\repos\\ProLabs\\kis\\kis\\kis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Иван\\.nuget\\packages\\epplus\\7.1.0\\epplus.7.1.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",

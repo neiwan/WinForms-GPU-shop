@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\kis\\kis\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\prolabs\\kis\\kis\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\forms\\stats_extra_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\forms\\stats_extra_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\forms\\stats_extra_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\forms\\stats_extra_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\forms\\stats_extra_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\forms\\stats_extra_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\controllers\\gpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\controllers\\gpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\controllers\\gpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\forms\\stats_extra_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\forms\\stats_extra_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\forms\\stats_extra_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\forms\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\forms\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\forms\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\forms\\login_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\forms\\login_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\forms\\login_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20266736-1DFE-4B01-AF17-480D99F3AEA7}|kis\\kis.csproj|solutionrelative:kis\\forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,34 +64,32 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Stats_Extra_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Stats_Extra_Form.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Stats_Extra_Form.cs",
               "RelativeDocumentMoniker": "kis\\Forms\\Stats_Extra_Form.cs",
               "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Stats_Extra_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "kis\\Forms\\Stats_Extra_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\kis\\kis\\Forms\\Stats_Extra_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T11:53:41.826Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-04-07T11:53:41.826Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Stats_Extra_Form.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Stats_Extra_Form.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Stats_Extra_Form.cs",
               "RelativeDocumentMoniker": "kis\\Forms\\Stats_Extra_Form.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Stats_Extra_Form.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Stats_Extra_Form.cs",
               "RelativeToolTip": "kis\\Forms\\Stats_Extra_Form.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAAwE8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T11:39:02.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T11:39:02.733Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StatsController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Controllers\\StatsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Controllers\\StatsController.cs",
               "RelativeDocumentMoniker": "kis\\Controllers\\StatsController.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Controllers\\StatsController.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Controllers\\StatsController.cs",
               "RelativeToolTip": "kis\\Controllers\\StatsController.cs",
               "ViewState": "AQIAAGoAAAAAAAAAAAAYwIkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,35 +100,33 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Main_Form.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Main_Form.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Main_Form.cs",
               "RelativeDocumentMoniker": "kis\\Forms\\Main_Form.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Main_Form.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Main_Form.cs",
               "RelativeToolTip": "kis\\Forms\\Main_Form.cs",
               "ViewState": "AQIAAMsBAAAAAAAAAAAAwO0BAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T16:33:02.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T16:33:02.352Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GPUController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Controllers\\GPUController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Controllers\\GPUController.cs",
               "RelativeDocumentMoniker": "kis\\Controllers\\GPUController.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Controllers\\GPUController.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Controllers\\GPUController.cs",
               "RelativeToolTip": "kis\\Controllers\\GPUController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAG0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T17:18:48.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T17:18:48.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "kis\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Controllers\\UserController.cs",
               "RelativeToolTip": "kis\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,36 +136,34 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "kis\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Controllers\\OrderController.cs",
               "RelativeToolTip": "kis\\Controllers\\OrderController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAwwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T19:07:03.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T19:07:03.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Stats_Extra_Form.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Stats_Extra_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Stats_Extra_Form.Designer.cs",
               "RelativeDocumentMoniker": "kis\\Forms\\Stats_Extra_Form.Designer.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Stats_Extra_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Stats_Extra_Form.Designer.cs",
               "RelativeToolTip": "kis\\Forms\\Stats_Extra_Form.Designer.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAjwGIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T11:39:27.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T11:39:27.392Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Login_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Login_Form.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Login_Form.cs",
               "RelativeDocumentMoniker": "kis\\Forms\\Login_Form.cs",
               "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Login_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "kis\\Forms\\Login_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\kis\\kis\\Forms\\Login_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T11:42:11.348Z"
             },
@@ -177,21 +171,20 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Main_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Main_Form.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Main_Form.cs",
               "RelativeDocumentMoniker": "kis\\Forms\\Main_Form.cs",
               "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Main_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "kis\\Forms\\Main_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\kis\\kis\\Forms\\Main_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T19:37:53.549Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-04-03T19:37:53.549Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Login_Form.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Login_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Login_Form.Designer.cs",
               "RelativeDocumentMoniker": "kis\\Forms\\Login_Form.Designer.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Login_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Login_Form.Designer.cs",
               "RelativeToolTip": "kis\\Forms\\Login_Form.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,9 +194,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Program.cs",
               "RelativeDocumentMoniker": "kis\\Forms\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\kis\\kis\\Forms\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ProLabs\\kis\\kis\\Forms\\Program.cs",
               "RelativeToolTip": "kis\\Forms\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

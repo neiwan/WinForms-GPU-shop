@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Иван\\source\\repos\\kis\\kis\\kis.csproj": {}
+    "C:\\Users\\Иван\\source\\repos\\ProLabs\\kis\\kis\\kis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Иван\\source\\repos\\kis\\kis\\kis.csproj": {
+    "C:\\Users\\Иван\\source\\repos\\ProLabs\\kis\\kis\\kis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\source\\repos\\kis\\kis\\kis.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\source\\repos\\ProLabs\\kis\\kis\\kis.csproj",
         "projectName": "kis",
-        "projectPath": "C:\\Users\\Иван\\source\\repos\\kis\\kis\\kis.csproj",
+        "projectPath": "C:\\Users\\Иван\\source\\repos\\ProLabs\\kis\\kis\\kis.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\source\\repos\\kis\\kis\\obj\\",
+        "outputPath": "C:\\Users\\Иван\\source\\repos\\ProLabs\\kis\\kis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
