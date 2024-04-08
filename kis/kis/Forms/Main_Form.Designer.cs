@@ -543,7 +543,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1336, 469);
+            ClientSize = new Size(1340, 469);
             Controls.Add(Stats_Group);
             Controls.Add(Orders_button);
             Controls.Add(GPU_Group);

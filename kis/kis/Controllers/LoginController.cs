@@ -10,6 +10,7 @@ namespace kis.Controllers
     public class LoginController
     {
         private int cur_user_id { get; set; }
+
         private VidContext db = new VidContext();
         public bool Login(string login, string pwd)
         {

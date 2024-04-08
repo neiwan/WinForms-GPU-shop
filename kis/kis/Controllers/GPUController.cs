@@ -15,6 +15,7 @@ namespace kis.Controllers
         private int cur_user_id {  get; set; }
         private List<string> ManufacturerList {  get; set; }
         private List<string> TypeList { get; set; }
+
         public GPUController(VidContext db, int id)
         {
             this.cur_user_id = id;

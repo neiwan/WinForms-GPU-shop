@@ -15,6 +15,7 @@ namespace kis.Controllers
     public class UserController
     {
         private int cur_user_id { get; set; }
+
         private VidContext db;
         public UserController(int id, VidContext db)
         {
