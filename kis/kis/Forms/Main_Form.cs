@@ -1,4 +1,4 @@
-﻿using kis.Controllers;
+using kis.Controllers;
 using kis.DB_Classes;
 using kis.Forms;
 using Microsoft.Extensions.Primitives;
@@ -304,6 +304,7 @@ namespace kis
             {
                 column.SortMode = DataGridViewColumnSortMode.NotSortable;
             }
+            Gpu_Table.AllowUserToAddRows = false;
             Gpu_Table.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
             Gpu_Table.AutoResizeColumns();
         }
@@ -331,7 +332,16 @@ namespace kis
                 }
                 else if (columnName == "GPUname")
                 {
-                    GPU_Controller.UpdateGPUName(gpuId, [newValue]);
+                    try
+                    {
+                        int.Parse(newValue);       
+                    }
+                    catch (Exception) 
+                    {
+                        MessageBox.Show("хуевое значение");
+                        
+                    }
+              
                 }
                 else if (columnName == "RAM")
                 {
@@ -468,60 +478,91 @@ namespace kis
                     using (FolderBrowserDialog folderBrowserDialog = new FolderBrowserDialog())
                     {
                         folderBrowserDialog.Description = "Выберите папку";
-                        DialogResult result = folderBrowserDialog.ShowDialog();
-                        if (result == DialogResult.OK && !string.IsNullOrWhiteSpace(folderBrowserDialog.SelectedPath))
+                        DialogResult resultx = folderBrowserDialog.ShowDialog();
+                        if (resultx == DialogResult.OK && !string.IsNullOrWhiteSpace(folderBrowserDialog.SelectedPath))
                         {
                             path = folderBrowserDialog.SelectedPath;
+                            // Список доступных видеокарт
+                            if (Id == 1)
+                            {
+                                Stats_Controller.Generate1(path, GPU_Controller.Get_GPUs());
+                                MessageBox.Show("Отчет №" + Id + " сгенерирован");
+                            }
+                            // Список доступных видеокарт в магазинах выбранного города
+                            if (Id == 2)
+                            {
+                                Stats_Extra_Form form = new Stats_Extra_Form(2, GPU_Controller);
+                                DialogResult result = form.ShowDialog();
+                                if (result == DialogResult.OK)
+                                {
+                                    Stats_Controller.Generate2(path, form.ans2, GPU_Controller.Get_GPUs());
+                                    MessageBox.Show("Отчет №" + Id + " сгенерирован");
+                                }
+                            }
+                            // Список видеокарт в выбранном ценовом диапазоне
+                            if (Id == 3)
+                            {
+                                Stats_Extra_Form form = new Stats_Extra_Form(3, GPU_Controller);
+                                DialogResult result = form.ShowDialog();
+                                if (result == DialogResult.OK)
+                                {
+                                    Stats_Controller.Generate3(path, form.ans3_1, form.ans3_2, GPU_Controller.Get_GPUs());
+                                    MessageBox.Show("Отчет №" + Id + " сгенерирован");
+                                }
+                                
+                            }
+                            // Аналитический отчет по продажам видеокарт за определенный период
+                            if (Id == 4)
+                            {
+                                Stats_Extra_Form form = new Stats_Extra_Form(4, GPU_Controller);
+                                DialogResult result = form.ShowDialog();
+                                if (result == DialogResult.OK)
+                                {
+                                    Stats_Controller.Generate4(path, form.ans4_1, form.ans4_2, Order_Controller.Get_All_Orders(form.ans4_1, form.ans4_2));
+                                    MessageBox.Show("Отчет №" + Id + " сгенерирован");
+                                }
+                                
+                            }
+                            // Список видеокарт по выбранному GPU
+                            if (Id == 5)
+                            {
+                                Stats_Extra_Form form = new Stats_Extra_Form(5, GPU_Controller);
+                                DialogResult result = form.ShowDialog();
+                                if (result == DialogResult.OK)
+                                {
+                                    Stats_Controller.Generate5(path, form.ans5, GPU_Controller.Get_GPUs());
+                                    MessageBox.Show("Отчет №" + Id + " сгенерирован");
+                                }
+                                
+                            }
+                            // Список видеокарт по объему видеопамяти
+                            if (Id == 6)
+                            {
+                                Stats_Extra_Form form = new Stats_Extra_Form(6, GPU_Controller);
+                                DialogResult result = form.ShowDialog();
+                                if (result == DialogResult.OK)
+                                {
+                                    Stats_Controller.Generate6(path, form.ans6, GPU_Controller.Get_GPUs());
+                                    MessageBox.Show("Отчет №" + Id + " сгенерирован");
+                                }
+                                
+                            }
+                            // Список видеокарт по производителю
+                            if (Id == 7)
+                            {
+                                Stats_Extra_Form form = new Stats_Extra_Form(7, GPU_Controller);
+                                DialogResult result = form.ShowDialog();
+                                if (result == DialogResult.OK)
+                                {
+                                    Stats_Controller.Generate7(path, form.ans7, GPU_Controller.Get_GPUs());
+                                    MessageBox.Show("Отчет №" + Id + " сгенерирован");
+                                }
+                                
+                            }
                         }
                     }
-                    // Список доступных видеокарт
-                    if (Id == 1)
-                    {
-                        Stats_Controller.Generate1(path, GPU_Controller.Get_GPUs());
-                    }
-                    // Список доступных видеокарт в магазинах выбранного города
-                    if (Id == 2)
-                    {
-                        Stats_Extra_Form form = new Stats_Extra_Form(2, GPU_Controller);
-                        DialogResult result = form.ShowDialog();
-                        Stats_Controller.Generate2(path, form.ans2, GPU_Controller.Get_GPUs());
-                    }
-                    // Список видеокарт в выбранном ценовом диапазоне
-                    if (Id == 3)
-                    {
-                        Stats_Extra_Form form = new Stats_Extra_Form(3, GPU_Controller);
-                        DialogResult result = form.ShowDialog();
-                        Stats_Controller.Generate3(path, form.ans3_1, form.ans3_2, GPU_Controller.Get_GPUs());
-                    }
-                    // Аналитический отчет по продажам видеокарт за определенный период
-                    if (Id == 4)
-                    { 
-                        Stats_Extra_Form form = new Stats_Extra_Form(4, GPU_Controller);
-                        DialogResult result = form.ShowDialog();
-                        Stats_Controller.Generate4(path, form.ans4_1, form.ans4_2, Order_Controller.Get_All_Orders(form.ans4_1, form.ans4_2));
-                    }
-                    // Список видеокарт по выбранному GPU
-                    if (Id == 5)
-                    {
-                        Stats_Extra_Form form = new Stats_Extra_Form(5, GPU_Controller);
-                        DialogResult result = form.ShowDialog();
-                        Stats_Controller.Generate5(path, form.ans5, GPU_Controller.Get_GPUs());
-                    }
-                    // Список видеокарт по объему видеопамяти
-                    if (Id == 6)
-                    {
-                        Stats_Extra_Form form = new Stats_Extra_Form(6, GPU_Controller);
-                        DialogResult result = form.ShowDialog();
-                        Stats_Controller.Generate6(path, form.ans6, GPU_Controller.Get_GPUs());
-                    }
-                    // Список видеокарт по производителю
-                    if (Id == 7)
-                    {
-                        Stats_Extra_Form form = new Stats_Extra_Form(7, GPU_Controller);
-                        DialogResult result = form.ShowDialog();
-                        Stats_Controller.Generate7(path, form.ans7, GPU_Controller.Get_GPUs());
-                    }
-                    MessageBox.Show("Отчет №" + Id + " сгенерирован");
+
+                    
                 }
             }
         }

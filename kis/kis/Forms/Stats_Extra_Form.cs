@@ -85,6 +85,7 @@ namespace kis
             ans6 = comboBox6.Text;
             ans7 = comboBox7.Text;
             this.Close();
+            DialogResult = DialogResult.OK;
         }
     }
 }
