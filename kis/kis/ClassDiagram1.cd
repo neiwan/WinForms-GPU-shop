@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kis.Controllers.GPUController">
+    <Position X="37.75" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAECBQCAAAAAAgIAAAAgAAOAgQAQIQQAAAQCg=</HashCode>
+      <FileName>Controllers\GPUController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kis.Controllers.LoginController">
+    <Position X="40.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAEAAAAAgAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Controllers\LoginController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kis.Controllers.OrderController">
+    <Position X="32.5" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAARAAAABAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Controllers\OrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kis.Controllers.StatsController">
+    <Position X="32" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAARABCAAAAAAAAIAAAgAACAAAAAAUAAAAA=</HashCode>
+      <FileName>Controllers\StatsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kis.Controllers.UserController">
+    <Position X="35.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAQCAAAAAEAACAEAAAQAAIAAAAQAAAAAAA=</HashCode>
+      <FileName>Controllers\UserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kis.Login_Form">
+    <Position X="40.25" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BCAAAAAAACAAABgAAACACAASAAAMAAAAEEQAAAAAAgA=</HashCode>
+      <FileName>Forms\Login_Form.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="LoginController" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="kis.Main_Form">
+    <Position X="37.75" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AmEkAtAB8CiFQg8AQBCKRAASSIDuAYCNAkbwIBCWABE=</HashCode>
+      <FileName>Forms\Main_Form.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="GPU_Controller" />
+      <Field Name="Stats_Controller" />
+      <Field Name="User_Controller" />
+      <Field Name="Order_Controller" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="kis.Stats_Extra_Form">
+    <Position X="42.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAECgAAAASAAjIAQACAAABAAAIAAAAABIAAAA=</HashCode>
+      <FileName>Forms\Stats_Extra_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form">
+    <Position X="40.25" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

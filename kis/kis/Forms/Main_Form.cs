@@ -1,4 +1,4 @@
-﻿using kis.Controllers;
+using kis.Controllers;
 using kis.DB_Classes;
 using kis.Forms;
 using Microsoft.Extensions.Primitives;

@@ -18,6 +18,7 @@ namespace kis.Controllers
     {
         private ExcelPackage package;
         private VidContext db { get; set; }
+
         public StatsController(VidContext db) 
         {
             this.db = db;

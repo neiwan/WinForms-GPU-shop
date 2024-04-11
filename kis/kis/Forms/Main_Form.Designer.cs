@@ -1,4 +1,4 @@
-﻿namespace kis
+namespace kis
 {
     partial class Main_Form
     {
