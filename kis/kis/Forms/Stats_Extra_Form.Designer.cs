@@ -42,14 +42,14 @@
             // comboBox7
             // 
             comboBox7.FormattingEnabled = true;
-            comboBox7.Location = new Point(224, 123);
+            comboBox7.Location = new Point(78, 66);
             comboBox7.Name = "comboBox7";
             comboBox7.Size = new Size(121, 23);
             comboBox7.TabIndex = 0;
             // 
             // button
             // 
-            button.Location = new Point(246, 206);
+            button.Location = new Point(88, 134);
             button.Name = "button";
             button.Size = new Size(75, 23);
             button.TabIndex = 1;
@@ -60,7 +60,7 @@
             // comboBox6
             // 
             comboBox6.FormattingEnabled = true;
-            comboBox6.Location = new Point(224, 123);
+            comboBox6.Location = new Point(78, 66);
             comboBox6.Name = "comboBox6";
             comboBox6.Size = new Size(121, 23);
             comboBox6.TabIndex = 2;
@@ -68,21 +68,21 @@
             // comboBox5
             // 
             comboBox5.FormattingEnabled = true;
-            comboBox5.Location = new Point(224, 123);
+            comboBox5.Location = new Point(78, 66);
             comboBox5.Name = "comboBox5";
             comboBox5.Size = new Size(121, 23);
             comboBox5.TabIndex = 3;
             // 
             // dateTimePicker1
             // 
-            dateTimePicker1.Location = new Point(49, 51);
+            dateTimePicker1.Location = new Point(37, 22);
             dateTimePicker1.Name = "dateTimePicker1";
             dateTimePicker1.Size = new Size(200, 23);
             dateTimePicker1.TabIndex = 4;
             // 
             // dateTimePicker2
             // 
-            dateTimePicker2.Location = new Point(337, 51);
+            dateTimePicker2.Location = new Point(37, 76);
             dateTimePicker2.Name = "dateTimePicker2";
             dateTimePicker2.Size = new Size(200, 23);
             dateTimePicker2.TabIndex = 5;
@@ -90,21 +90,21 @@
             // comboBox2
             // 
             comboBox2.FormattingEnabled = true;
-            comboBox2.Location = new Point(224, 123);
+            comboBox2.Location = new Point(78, 66);
             comboBox2.Name = "comboBox2";
             comboBox2.Size = new Size(121, 23);
             comboBox2.TabIndex = 6;
             // 
             // textBox3_1
             // 
-            textBox3_1.Location = new Point(95, 97);
+            textBox3_1.Location = new Point(12, 22);
             textBox3_1.Name = "textBox3_1";
             textBox3_1.Size = new Size(100, 23);
             textBox3_1.TabIndex = 7;
             // 
             // textBox3_2
             // 
-            textBox3_2.Location = new Point(385, 97);
+            textBox3_2.Location = new Point(148, 22);
             textBox3_2.Name = "textBox3_2";
             textBox3_2.Size = new Size(100, 23);
             textBox3_2.TabIndex = 8;
@@ -113,7 +113,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(567, 284);
+            ClientSize = new Size(260, 184);
             Controls.Add(textBox3_2);
             Controls.Add(textBox3_1);
             Controls.Add(comboBox2);

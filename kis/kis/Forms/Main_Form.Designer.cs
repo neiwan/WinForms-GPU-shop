@@ -238,9 +238,9 @@
             Face_Group.Controls.Add(UserAdres_label);
             Face_Group.Controls.Add(UserAdres_text);
             Face_Group.Controls.Add(UserCity_label);
-            Face_Group.Location = new Point(106, 1);
+            Face_Group.Location = new Point(106, 12);
             Face_Group.Name = "Face_Group";
-            Face_Group.Size = new Size(1200, 431);
+            Face_Group.Size = new Size(833, 420);
             Face_Group.TabIndex = 19;
             Face_Group.TabStop = false;
             // 
@@ -254,15 +254,15 @@
             GPU_Group.Controls.Add(Type_label);
             GPU_Group.Controls.Add(Manufacturer_label);
             GPU_Group.Controls.Add(Gpu_Table);
-            GPU_Group.Location = new Point(106, 1);
+            GPU_Group.Location = new Point(106, 12);
             GPU_Group.Name = "GPU_Group";
-            GPU_Group.Size = new Size(1200, 431);
+            GPU_Group.Size = new Size(833, 420);
             GPU_Group.TabIndex = 20;
             GPU_Group.TabStop = false;
             // 
             // order_button
             // 
-            order_button.Location = new Point(1078, 356);
+            order_button.Location = new Point(753, 385);
             order_button.Name = "order_button";
             order_button.Size = new Size(75, 23);
             order_button.TabIndex = 17;
@@ -331,18 +331,17 @@
             Gpu_Table.GridColor = SystemColors.MenuText;
             Gpu_Table.Location = new Point(25, 26);
             Gpu_Table.Name = "Gpu_Table";
-            Gpu_Table.Size = new Size(1145, 298);
+            Gpu_Table.Size = new Size(790, 298);
             Gpu_Table.TabIndex = 10;
             // 
             // Orders_Group
             // 
             Orders_Group.Controls.Add(Orders_Table);
-            Orders_Group.Location = new Point(106, 1);
+            Orders_Group.Location = new Point(106, 12);
             Orders_Group.Name = "Orders_Group";
-            Orders_Group.Size = new Size(1200, 431);
+            Orders_Group.Size = new Size(833, 420);
             Orders_Group.TabIndex = 21;
             Orders_Group.TabStop = false;
-            Orders_Group.Text = "3";
             // 
             // Orders_Table
             // 
@@ -352,7 +351,7 @@
             Orders_Table.GridColor = SystemColors.MenuText;
             Orders_Table.Location = new Point(42, 11);
             Orders_Table.Name = "Orders_Table";
-            Orders_Table.Size = new Size(1145, 374);
+            Orders_Table.Size = new Size(773, 374);
             Orders_Table.TabIndex = 10;
             // 
             // Orders_button
@@ -385,7 +384,7 @@
             Stats_Group.Controls.Add(Stats_Button1);
             Stats_Group.Location = new Point(93, 12);
             Stats_Group.Name = "Stats_Group";
-            Stats_Group.Size = new Size(1207, 426);
+            Stats_Group.Size = new Size(846, 426);
             Stats_Group.TabIndex = 22;
             Stats_Group.TabStop = false;
             // 
@@ -397,7 +396,7 @@
             Stats_Table.Dock = DockStyle.Fill;
             Stats_Table.Location = new Point(3, 19);
             Stats_Table.Name = "Stats_Table";
-            Stats_Table.Size = new Size(1201, 404);
+            Stats_Table.Size = new Size(840, 404);
             Stats_Table.TabIndex = 14;
             Stats_Table.CellContentClick += Stats_Table_CellContentClick;
             // 
@@ -543,7 +542,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1336, 469);
+            ClientSize = new Size(941, 469);
             Controls.Add(Stats_Group);
             Controls.Add(Orders_button);
             Controls.Add(GPU_Group);
@@ -553,7 +552,7 @@
             Controls.Add(Face_Group);
             Controls.Add(Orders_Group);
             Name = "Main_Form";
-            Text = "Form2";
+            Text = "GPU Shop";
             FormClosed += Form2_FormClosed;
             Load += Form2_Load;
             ((System.ComponentModel.ISupportInitialize)Users_Table).EndInit();

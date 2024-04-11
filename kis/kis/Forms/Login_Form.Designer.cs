@@ -124,7 +124,7 @@
             Controls.Add(label1);
             Controls.Add(label2);
             Name = "Login_Form";
-            Text = "Form1";
+            Text = "Authorisation";
             FormClosed += Form1_FormClosed;
             Load += Form1_Load;
             ResumeLayout(false);
